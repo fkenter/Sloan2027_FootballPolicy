@@ -1,0 +1,830 @@
+Date,Team1,Team2,Mo,Date,Week,Shown Air,Shown Cable
+43701,FLA,Miami,8,24,0,,1
+43701,Hawaii,ARIZ,8,24,0,,
+43706,CIN,UCLA,8,29,1,,1
+43706,Utah,BYU,8,29,1,,1
+43706,UAB,Alabama State,8,29,1,,
+43706,C. Mich.,SUNY Albany,8,29,1,,
+43706,Arizona St.,Kent State,8,29,1,,
+43706,BGSU,Morgan St.,8,29,1,,
+43706,CENT ARK,Western Kentucky,8,29,1,,
+43706,Charlotte,Gardner Webb,8,29,1,,
+43706,Connecticut,Wagner,8,29,1,,
+43706,TULANE,FIU,8,29,1,,
+43706,San Jose State,N Col,8,29,1,,
+43706,Texas A&M,Texas State,8,29,1,,
+43706,BUF,Rob Morris,8,29,1,,
+43706,CLEM,Georgia Tech,8,29,1,,
+43706,UCF,FAMU,8,29,1,,
+43707,Colorado,Colorado St.,8,30,1,,1
+43707,Michigan State,Tulsa,8,30,1,,1
+43707,Oklahoma State,Oregon State,8,30,1,,1
+43707,Wisconsin,USF,8,30,1,,1
+43707,Army,Rice,8,30,1,,
+43707,Rutgers,UMASS,8,30,1,,
+43707,Nevada,Purdue,8,30,1,,
+43707,Wake Forest,Utah State,8,30,1,,
+43708,ALA,Duke,8,31,1,1,
+43708,AUB,Oregon,8,31,1,1,
+43708,Memphis,Mississippi,8,31,1,1,
+43708,Stanford,Northwestern,8,31,1,1,
+43708,Ohio State,Florida Atlantic,8,31,1,1,
+43708,USC,Fresno State,8,31,1,,1
+43708,Georgia,Vanderbilt,8,31,1,,1
+43708,Georgia St.,Tennessee,8,31,1,,1
+43708,Iowa,Miami (Ohio),8,31,1,,1
+43708,Mississippi State,UL-Lafayette,8,31,1,,1
+43708,Michigan,Middle Tennessee,8,31,1,,1
+43708,Nebraska,South Alabama,8,31,1,,1
+43708,North Carolina,South Carolina,8,31,1,,1
+43708,Boise,Florida State,8,31,1,,1
+43708,North Texas,Abilene Christian,8,31,1,,
+43708,AF,COLG,8,31,1,,
+43708,Illinois,Akron,8,31,1,,
+43708,Southern Miss,ALC ST,8,31,1,,
+43708,APP ST,ETSU,8,31,1,,
+43708,SMU,ARK ST,8,31,1,,
+43708,TCU,Ark-Pine Bluff,8,31,1,,
+43708,Indiana,BALL,8,31,1,,
+43708,BAY,S. F. Austin,8,31,1,,
+43708,BC,Virginia Tech,8,31,1,,
+43708,Temple,Bucknell,8,31,1,,
+43708,Cal,UC Davis,8,31,1,,
+43708,TROY,CMPBL,8,31,1,,
+43708,E. Michigan,C CAR,8,31,1,,
+43708,Washington,E WASH,8,31,1,,
+43708,LSU,Georgia Southern,8,31,1,,
+43708,UL-Monroe,Grambling,8,31,1,,
+43708,Navy,Holy Cross,8,31,1,,
+43708,UTEP,Houston Chr,8,31,1,,
+43708,Northern Illinois,ILL ST,8,31,1,,
+43708,UTSA,Inc word,8,31,1,,
+43708,KANSAS,Indiana State,8,31,1,,
+43708,West Virginia,J. Madison,8,31,1,,
+43708,Kansas State,Nicholls State,8,31,1,,
+43708,Kentucky,Toledo,8,31,1,,
+43708,Texas,Louisiana Tech,8,31,1,,
+43708,MARSHALL,VMI,8,31,1,,
+43708,Wyoming,Missouri,8,31,1,,
+43708,Western Michigan,Monmouth NJ,8,31,1,,
+43708,Texas Tech,Montana St.,8,31,1,,
+43708,NM,Sam Houston St.,8,31,1,,
+43708,Washington State,N. Mexico St.,8,31,1,,
+43708,Old Dominion,Norfolk St.,8,31,1,,
+43708,Ohio,RI,8,31,1,,
+43708,Virginia,Pittsburgh,8,31,1,,
+43708,San Diego State,WEB ST,8,31,1,,
+43708,UNLV,S Utah,8,31,1,,
+43708,Syracuse,Liberty,8,31,1,,
+43708,Maryland,Howard,8,31,1,,
+43708,N.C. State,ECU,8,31,1,,
+43708,ARK,Portland State,8,31,1,,
+43709,Oklahoma,Houston,9,1,1,1,
+43710,Notre Dame,Louisville,9,2,1,,1
+43714,Boise,MARSHALL,9,6,2,,1
+43714,Arizona St.,CS SAC,9,6,2,,
+43714,Virginia,William & Mary,9,6,2,,
+43714,Wake Forest,Rice,9,6,2,,
+43715,Michigan,Army,9,7,2,1,
+43715,Penn State,BUF,9,7,2,1,
+43715,Colorado,Nebraska,9,7,2,1,
+43715,LSU,Texas,9,7,2,1,
+43715,CLEM,Texas A&M,9,7,2,1,
+43715,Ohio State,CIN,9,7,2,1,
+43715,AUB,TULANE,9,7,2,,1
+43715,Cal,Washington,9,7,2,,1
+43715,Iowa,Rutgers,9,7,2,,1
+43715,Mississippi State,Southern Miss,9,7,2,,1
+43715,Missouri,West Virginia,9,7,2,,1
+43715,Virginia Tech,Old Dominion,9,7,2,,1
+43715,USC,Stanford,9,7,2,,1
+43715,Maryland,Syracuse,9,7,2,,1
+43715,BYU,Tennessee,9,7,2,,1
+43715,UAB,Akron,9,7,2,,
+43715,ALA,N. Mexico St.,9,7,2,,
+43715,APP ST,Charlotte,9,7,2,,
+43715,ARIZ,N Ariz,9,7,2,,
+43715,ARK ST,UNLV,9,7,2,,
+43715,BAY,UTSA,9,7,2,,
+43715,BC,Richmond,9,7,2,,
+43715,Kansas State,BGSU,9,7,2,,
+43715,South Carolina,Charleston So,9,7,2,,
+43715,Wisconsin,C. Mich.,9,7,2,,
+43715,C CAR,KANSAS,9,7,2,,
+43715,Colorado St.,W. Illinois,9,7,2,,
+43715,Illinois,Connecticut,9,7,2,,
+43715,ECU,Gardner Webb,9,7,2,,
+43715,Indiana,E. Illinois,9,7,2,,
+43715,Louisville,EKU,9,7,2,,
+43715,Kentucky,E. Michigan,9,7,2,,
+43715,UCF,Florida Atlantic,9,7,2,,
+43715,Western Kentucky,FIU,9,7,2,,
+43715,Minnesota,Fresno State,9,7,2,,
+43715,Georgia St.,Furman,9,7,2,,
+43715,Georgia Southern,Maine,9,7,2,,
+43715,Louisiana Tech,Grambling,9,7,2,,
+43715,Hawaii,Oregon State,9,7,2,,
+43715,Houston,Pr. View A&M,9,7,2,,
+43715,S. Illinois,UMASS,9,7,2,,
+43715,Oklahoma State,McNeese State,9,7,2,,
+43715,North Carolina,Miami,9,7,2,,
+43715,Miami (Ohio),Tenn Tech,9,7,2,,
+43715,Michigan State,Western Michigan,9,7,2,,
+43715,Middle Tennessee,Tenn. St.,9,7,2,,
+43715,Washington State,N Col,9,7,2,,
+43715,N.C. State,W. Carolina,9,7,2,,
+43715,Oregon,Nevada,9,7,2,,
+43715,Utah,Northern Illinois,9,7,2,,
+43715,SMU,North Texas,9,7,2,,
+43715,Pittsburgh,Ohio,9,7,2,,
+43715,Oklahoma,SD,9,7,2,,
+43715,Purdue,Vanderbilt,9,7,2,,
+43715,San Diego State,UCLA,9,7,2,,
+43715,Tulsa,San Jose State,9,7,2,,
+43715,Utah State,Stony Brook,9,7,2,,
+43715,Wyoming,Texas State,9,7,2,,
+43715,Texas Tech,UTEP,9,7,2,,
+43715,South Alabama,Jackson State,9,7,2,,
+43715,BALL,Fordham,9,7,2,,
+43715,Duke,NC A&T,9,7,2,,
+43715,Florida State,UL-Monroe,9,7,2,,
+43715,Georgia Tech,USF,9,7,2,,
+43715,Kent State,Kennesaw,9,7,2,,
+43715,UL-Lafayette,Liberty,9,7,2,,
+43715,Memphis,SOUTH,9,7,2,,
+43715,Mississippi,ARK,9,7,2,,
+43721,Washington State,Houston,9,13,3,,1
+43721,Wake Forest,North Carolina,9,13,3,,1
+43721,KANSAS,BC,9,13,3,,
+43722,ALA,South Carolina,9,14,3,1,
+43722,Arizona St.,Michigan State,9,14,3,1,
+43722,Notre Dame,NM,9,14,3,1,
+43722,Oklahoma,UCLA,9,14,3,1,
+43722,Penn State,Pittsburgh,9,14,3,1,
+43722,Ohio State,Indiana,9,14,3,1,
+43722,CLEM,Syracuse,9,14,3,1,
+43722,BYU,USC,9,14,3,1,
+43722,ARIZ,Texas Tech,9,14,3,,1
+43722,Georgia,ARK ST,9,14,3,,1
+43722,Army,UTSA,9,14,3,,1
+43722,AUB,Kent State,9,14,3,,1
+43722,FLA,Kentucky,9,14,3,,1
+43722,Kansas State,Mississippi State,9,14,3,,1
+43722,West Virginia,N.C. State,9,14,3,,1
+43722,Nebraska,Northern Illinois,9,14,3,,1
+43722,Oklahoma State,Tulsa,9,14,3,,1
+43722,UCF,Stanford,9,14,3,,1
+43722,Iowa,Iowa State,9,14,3,,1
+43722,AF,Colorado,9,14,3,,
+43722,C. Mich.,Akron,9,14,3,,
+43722,Florida Atlantic,BALL,9,14,3,,
+43722,Miami,Beth-Cookman,9,14,3,,
+43722,Louisiana Tech,BGSU,9,14,3,,
+43722,Cal,North Texas,9,14,3,,
+43722,Oregon State,Cal Poly,9,14,3,,
+43722,Charlotte,UMASS,9,14,3,,
+43722,Tennessee,Chattanooga,9,14,3,,
+43722,CIN,Miami (Ohio),9,14,3,,
+43722,C CAR,Norfolk St.,9,14,3,,
+43722,Duke,Middle Tennessee,9,14,3,,
+43722,Navy,ECU,9,14,3,,
+43722,E. Michigan,Illinois,9,14,3,,
+43722,FIU,NH,9,14,3,,
+43722,Virginia Tech,Furman,9,14,3,,
+43722,Minnesota,Georgia Southern,9,14,3,,
+43722,Western Michigan,Georgia St.,9,14,3,,
+43722,Washington,Hawaii,9,14,3,,
+43722,Wyoming,Idaho,9,14,3,,
+43722,Utah,Idaho St,9,14,3,,
+43722,Louisville,Western Kentucky,9,14,3,,
+43722,LSU,NW LA,9,14,3,,
+43722,MARSHALL,Ohio,9,14,3,,
+43722,Temple,Maryland,9,14,3,,
+43722,Memphis,South Alabama,9,14,3,,
+43722,Mississippi,SE LA,9,14,3,,
+43722,Missouri,SE Miss St,9,14,3,,
+43722,TULANE,Missouri St,9,14,3,,
+43722,Oregon,MT,9,14,3,,
+43722,Toledo,MURR,9,14,3,,
+43722,Nevada,WEB ST,9,14,3,,
+43722,San Diego State,N. Mexico St.,9,14,3,,
+43722,Northwestern,UNLV,9,14,3,,
+43722,TCU,Purdue,9,14,3,,
+43722,Texas,Rice,9,14,3,,
+43722,USF,S.C. State,9,14,3,,
+43722,SMU,Texas State,9,14,3,,
+43722,Southern Miss,TROY,9,14,3,,
+43722,Citadel,Georgia Tech,9,14,3,,
+43722,Liberty,BUF,9,14,3,,
+43722,Virginia,Florida State,9,14,3,,
+43722,ARK,Colorado St.,9,14,3,,
+43722,UL-Lafayette,Texas Southern,9,14,3,,
+43727,TULANE,Houston,9,19,4,,1
+43728,Boise,AF,9,20,4,,1
+43728,USC,Utah,9,20,4,,1
+43728,Louisiana Tech,FIU,9,20,4,,
+43729,AUB,Texas A&M,9,21,4,1,
+43729,Georgia,Notre Dame,9,21,4,1,
+43729,Wisconsin,Michigan,9,21,4,1,
+43729,Michigan State,Northwestern,9,21,4,1,
+43729,Texas,Oklahoma State,9,21,4,1,
+43729,Pittsburgh,UCF,9,21,4,1,
+43729,Washington,BYU,9,21,4,1,
+43729,ALA,Southern Miss,9,21,4,,1
+43729,Cal,Mississippi,9,21,4,,1
+43729,Toledo,Colorado St.,9,21,4,,1
+43729,FLA,Tennessee,9,21,4,,1
+43729,Nebraska,Illinois,9,21,4,,1
+43729,Virginia,Old Dominion,9,21,4,,1
+43729,Oregon,Stanford,9,21,4,,1
+43729,SMU,TCU,9,21,4,,1
+43729,UCLA,Washington State,9,21,4,,1
+43729,Florida State,Louisville,9,21,4,,1
+43729,Iowa State,UL-Monroe,9,21,4,,1
+43729,TROY,Akron,9,21,4,,
+43729,APP ST,North Carolina,9,21,4,,
+43729,Colorado,Arizona St.,9,21,4,,
+43729,ARK ST,S. Illinois,9,21,4,,
+43729,Army,Morgan St.,9,21,4,,
+43729,BAY,Rice,9,21,4,,
+43729,BC,Rutgers,9,21,4,,
+43729,Kent State,BGSU,9,21,4,,
+43729,BUF,Temple,9,21,4,,
+43729,Hawaii,CENT ARK,9,21,4,,
+43729,Miami,C. Mich.,9,21,4,,
+43729,C CAR,UMASS,9,21,4,,
+43729,Indiana,Connecticut,9,21,4,,
+43729,Fresno State,CS SAC,9,21,4,,
+43729,ECU,William & Mary,9,21,4,,
+43729,Wake Forest,Elon,9,21,4,,
+43729,Florida Atlantic,Wagner,9,21,4,,
+43729,Texas State,Georgia St.,9,21,4,,
+43729,West Virginia,KANSAS,9,21,4,,
+43729,Mississippi State,Kentucky,9,21,4,,
+43729,UL-Lafayette,Ohio,9,21,4,,
+43729,LSU,Vanderbilt,9,21,4,,
+43729,Missouri,South Carolina,9,21,4,,
+43729,Nevada,UTEP,9,21,4,,
+43729,NM,N. Mexico St.,9,21,4,,
+43729,North Texas,UTSA,9,21,4,,
+43729,Utah State,San Diego State,9,21,4,,
+43729,UAB,South Alabama,9,21,4,,
+43729,Syracuse,Western Michigan,9,21,4,,
+43729,Tulsa,Wyoming,9,21,4,,
+43729,CLEM,Charlotte,9,21,4,,
+43729,E. Michigan,C Conn,9,21,4,,
+43729,Liberty,Hampton,9,21,4,,
+43729,N.C. State,BALL,9,21,4,,
+43729,Ohio State,Miami (Ohio),9,21,4,,
+43729,San Jose State,ARK,9,21,4,,
+43734,Memphis,Navy,9,26,5,,1
+43735,Arizona St.,Cal,9,27,5,,1
+43735,Duke,Virginia Tech,9,27,5,,1
+43735,Penn State,Maryland,9,27,5,,1
+43735,AF,San Jose State,9,27,5,,
+43736,ALA,Mississippi,9,28,5,1,
+43736,Notre Dame,Virginia,9,28,5,1,
+43736,Oklahoma,Texas Tech,9,28,5,1,
+43736,Washington,USC,9,28,5,1,
+43736,CLEM,North Carolina,9,28,5,1,
+43736,Ohio State,Nebraska,9,28,5,1,
+43736,Wisconsin,Northwestern,9,28,5,1,
+43736,ARIZ,UCLA,9,28,5,,1
+43736,AUB,Mississippi State,9,28,5,,1
+43736,UCF,Connecticut,9,28,5,,1
+43736,Hawaii,Nevada,9,28,5,,1
+43736,Iowa,Middle Tennessee,9,28,5,,1
+43736,TCU,KANSAS,9,28,5,,1
+43736,Minnesota,Purdue,9,28,5,,1
+43736,Wyoming,UNLV,9,28,5,,1
+43736,Utah,Washington State,9,28,5,,1
+43736,Texas A&M,ARK,9,28,5,,1
+43736,BAY,Iowa State,9,28,5,,1
+43736,UMASS,Akron,9,28,5,,
+43736,APP ST,C CAR,9,28,5,,
+43736,ARK ST,TROY,9,28,5,,
+43736,Wake Forest,BC,9,28,5,,
+43736,Miami (Ohio),BUF,9,28,5,,
+43736,Florida Atlantic,Charlotte,9,28,5,,
+43736,CIN,MARSHALL,9,28,5,,
+43736,Western Michigan,C. Mich.,9,28,5,,
+43736,Utah State,Colorado St.,9,28,5,,
+43736,Pittsburgh,Delaware,9,28,5,,
+43736,ECU,Old Dominion,9,28,5,,
+43736,FLA,Towson,9,28,5,,
+43736,Fresno State,N. Mexico St.,9,28,5,,
+43736,UL-Lafayette,Georgia Southern,9,28,5,,
+43736,Syracuse,Holy Cross,9,28,5,,
+43736,Houston,North Texas,9,28,5,,
+43736,Michigan State,Indiana,9,28,5,,
+43736,Oklahoma State,Kansas State,9,28,5,,
+43736,South Carolina,Kentucky,9,28,5,,
+43736,Louisiana Tech,Rice,9,28,5,,
+43736,Michigan,Rutgers,9,28,5,,
+43736,Texas State,Nicholls State,9,28,5,,
+43736,Vanderbilt,Northern Illinois,9,28,5,,
+43736,Stanford,Oregon State,9,28,5,,
+43736,SMU,USF,9,28,5,,
+43736,UL-Monroe,South Alabama,9,28,5,,
+43736,Southern Miss,UTEP,9,28,5,,
+43736,Western Kentucky,UAB,9,28,5,,
+43736,Florida State,N.C. State,9,28,5,,
+43736,Liberty,NM,9,28,5,,
+43736,Temple,Georgia Tech,9,28,5,,
+43736,Toledo,BYU,9,28,5,,
+43741,Temple,ECU,10,3,6,,1
+43741,Georgia Southern,South Alabama,10,3,6,,
+43742,CIN,UCF,10,4,6,,1
+43742,San Jose State,NM,10,4,6,,
+43743,FLA,AUB,10,5,6,1,
+43743,Notre Dame,BGSU,10,5,6,1,
+43743,Oregon,Cal,10,5,6,1,
+43743,Michigan,Iowa,10,5,6,1,
+43743,Oklahoma,KANSAS,10,5,6,1,
+43743,Nebraska,Northwestern,10,5,6,1,
+43743,Texas,West Virginia,10,5,6,1,
+43743,Ohio State,Michigan State,10,5,6,1,
+43743,BAY,Kansas State,10,5,6,,1
+43743,San Diego State,Colorado St.,10,5,6,,1
+43743,Georgia,Tennessee,10,5,6,,1
+43743,Wisconsin,Kent State,10,5,6,,1
+43743,Virginia Tech,Miami,10,5,6,,1
+43743,Texas Tech,Oklahoma State,10,5,6,,1
+43743,Penn State,Purdue,10,5,6,,1
+43743,SMU,Tulsa,10,5,6,,1
+43743,Stanford,Washington,10,5,6,,1
+43743,Iowa State,TCU,10,5,6,,1
+43743,Navy,AF,10,5,6,,
+43743,ARIZ,Colorado,10,5,6,,
+43743,Georgia St.,ARK ST,10,5,6,,
+43743,TULANE,Army,10,5,6,,
+43743,BALL,Northern Illinois,10,5,6,,
+43743,Boise,UNLV,10,5,6,,
+43743,Louisville,BC,10,5,6,,
+43743,Ohio,BUF,10,5,6,,
+43743,C. Mich.,E. Michigan,10,5,6,,
+43743,USF,Connecticut,10,5,6,,
+43743,Pittsburgh,Duke,10,5,6,,
+43743,FIU,UMASS,10,5,6,,
+43743,Minnesota,Illinois,10,5,6,,
+43743,LSU,Utah State,10,5,6,,
+43743,Middle Tennessee,MARSHALL,10,5,6,,
+43743,Maryland,Rutgers,10,5,6,,
+43743,Memphis,UL-Monroe,10,5,6,,
+43743,Mississippi,Vanderbilt,10,5,6,,
+43743,Missouri,TROY,10,5,6,,
+43743,Western Kentucky,Old Dominion,10,5,6,,
+43743,Oregon State,UCLA,10,5,6,,
+43743,UAB,Rice,10,5,6,,
+43743,Toledo,Western Michigan,10,5,6,,
+43743,UTSA,UTEP,10,5,6,,
+43743,North Carolina,Georgia Tech,10,5,6,,
+43743,Liberty,N. Mexico St.,10,5,6,,
+43747,APP ST,UL-Lafayette,10,9,7,,1
+43748,N.C. State,Syracuse,10,10,7,,1
+43748,UL-Monroe,Texas State,10,10,7,,
+43749,Oregon,Colorado,10,11,7,,1
+43749,Miami,Virginia,10,11,7,,1
+43749,Colorado St.,NM,10,11,7,,
+43750,ALA,Texas A&M,10,12,7,1,
+43750,Michigan,Illinois,10,12,7,1,
+43750,Penn State,Iowa,10,12,7,1,
+43750,Notre Dame,USC,10,12,7,1,
+43750,Oklahoma,Texas,10,12,7,1,
+43750,CLEM,Florida State,10,12,7,1,
+43750,Washington,ARIZ,10,12,7,,1
+43750,BAY,Texas Tech,10,12,7,,1
+43750,Boise,Hawaii,10,12,7,,1
+43750,CIN,Houston,10,12,7,,1
+43750,LSU,FLA,10,12,7,,1
+43750,South Carolina,Georgia,10,12,7,,1
+43750,Temple,Memphis,10,12,7,,1
+43750,Minnesota,Nebraska,10,12,7,,1
+43750,Missouri,Mississippi,10,12,7,,1
+43750,Iowa State,West Virginia,10,12,7,,1
+43750,AF,Fresno State,10,12,7,,
+43750,Kent State,Akron,10,12,7,,
+43750,Arizona St.,Washington State,10,12,7,,
+43750,Western Kentucky,Army,10,12,7,,
+43750,BALL,E. Michigan,10,12,7,,
+43750,BGSU,Toledo,10,12,7,,
+43750,FIU,Charlotte,10,12,7,,
+43750,C. Mich.,N. Mexico St.,10,12,7,,
+43750,Georgia St.,C CAR,10,12,7,,
+43750,TULANE,Connecticut,10,12,7,,
+43750,Florida Atlantic,Middle Tennessee,10,12,7,,
+43750,Indiana,Rutgers,10,12,7,,
+43750,Louisiana Tech,UMASS,10,12,7,,
+43750,Louisville,Wake Forest,10,12,7,,
+43750,MARSHALL,Old Dominion,10,12,7,,
+43750,Purdue,Maryland,10,12,7,,
+43750,Western Michigan,Miami (Ohio),10,12,7,,
+43750,Wisconsin,Michigan State,10,12,7,,
+43750,Tennessee,Mississippi State,10,12,7,,
+43750,Navy,Tulsa,10,12,7,,
+43750,Nevada,San Jose State,10,12,7,,
+43750,Northern Illinois,Ohio,10,12,7,,
+43750,Southern Miss,North Texas,10,12,7,,
+43750,Utah,Oregon State,10,12,7,,
+43750,Virginia Tech,RI,10,12,7,,
+43750,San Diego State,Wyoming,10,12,7,,
+43750,UAB,UTSA,10,12,7,,
+43750,UNLV,Vanderbilt,10,12,7,,
+43750,Duke,Georgia Tech,10,12,7,,
+43750,Kentucky,ARK,10,12,7,,
+43750,USF,BYU,10,12,7,,
+43754,TROY,South Alabama,10,16,8,,1
+43755,UCLA,Stanford,10,17,8,,1
+43755,UL-Lafayette,ARK ST,10,17,8,,
+43756,Pittsburgh,Syracuse,10,18,8,,1
+43756,Ohio State,Northwestern,10,18,8,,1
+43756,Fresno State,UNLV,10,18,8,,
+43756,MARSHALL,Florida Atlantic,10,18,8,,
+43757,BAY,Oklahoma State,10,19,8,1,
+43757,LSU,Mississippi State,10,19,8,1,
+43757,Penn State,Michigan,10,19,8,1,
+43757,Oklahoma,West Virginia,10,19,8,1,
+43757,Oregon,Washington,10,19,8,1,
+43757,CLEM,Louisville,10,19,8,1,
+43757,ALA,Tennessee,10,19,8,,1
+43757,Washington State,Colorado,10,19,8,,1
+43757,FLA,South Carolina,10,19,8,,1
+43757,Georgia,Kentucky,10,19,8,,1
+43757,Illinois,Wisconsin,10,19,8,,1
+43757,Iowa,Purdue,10,19,8,,1
+43757,Memphis,TULANE,10,19,8,,1
+43757,Minnesota,Rutgers,10,19,8,,1
+43757,Iowa State,Texas Tech,10,19,8,,1
+43757,BYU,Boise,10,19,8,,1
+43757,AF,Hawaii,10,19,8,,
+43757,BUF,Akron,10,19,8,,
+43757,APP ST,UL-Monroe,10,19,8,,
+43757,USC,ARIZ,10,19,8,,
+43757,Utah,Arizona St.,10,19,8,,
+43757,Georgia St.,Army,10,19,8,,
+43757,BALL,Toledo,10,19,8,,
+43757,BC,N.C. State,10,19,8,,
+43757,C. Mich.,BGSU,10,19,8,,
+43757,Oregon State,Cal,10,19,8,,
+43757,Western Kentucky,Charlotte,10,19,8,,
+43757,CIN,Tulsa,10,19,8,,
+43757,Georgia Southern,C CAR,10,19,8,,
+43757,Houston,Connecticut,10,19,8,,
+43757,Virginia,Duke,10,19,8,,
+43757,UCF,ECU,10,19,8,,
+43757,E. Michigan,Western Michigan,10,19,8,,
+43757,FIU,UTEP,10,19,8,,
+43757,Texas,KANSAS,10,19,8,,
+43757,Kansas State,TCU,10,19,8,,
+43757,Ohio,Kent State,10,19,8,,
+43757,Louisiana Tech,Southern Miss,10,19,8,,
+43757,Miami (Ohio),Northern Illinois,10,19,8,,
+43757,Texas A&M,Mississippi,10,19,8,,
+43757,Vanderbilt,Missouri,10,19,8,,
+43757,North Texas,Middle Tennessee,10,19,8,,
+43757,Navy,USF,10,19,8,,
+43757,Utah State,Nevada,10,19,8,,
+43757,Wyoming,NM,10,19,8,,
+43757,Virginia Tech,North Carolina,10,19,8,,
+43757,UAB,Old Dominion,10,19,8,,
+43757,UTSA,Rice,10,19,8,,
+43757,San Diego State,San Jose State,10,19,8,,
+43757,SMU,Temple,10,19,8,,
+43757,Liberty,Maine,10,19,8,,
+43757,Indiana,Maryland,10,19,8,,
+43757,Georgia Tech,Miami,10,19,8,,
+43757,Wake Forest,Florida State,10,19,8,,
+43757,AUB,ARK,10,19,8,,
+43762,SMU,Houston,10,24,9,,1
+43763,USC,Colorado,10,25,9,,1
+43764,LSU,AUB,10,26,9,1,
+43764,Kansas State,Oklahoma,10,26,9,1,
+43764,Michigan,Notre Dame,10,26,9,1,
+43764,Penn State,Michigan State,10,26,9,1,
+43764,TCU,Texas,10,26,9,1,
+43764,Ohio State,Wisconsin,10,26,9,1,
+43764,Utah,Cal,10,26,9,,1
+43764,USF,ECU,10,26,9,,1
+43764,Middle Tennessee,FIU,10,26,9,,1
+43764,Iowa,Northwestern,10,26,9,,1
+43764,KANSAS,Texas Tech,10,26,9,,1
+43764,Minnesota,Maryland,10,26,9,,1
+43764,Oregon,Washington State,10,26,9,,1
+43764,UCF,Temple,10,26,9,,1
+43764,Florida State,Syracuse,10,26,9,,1
+43764,Miami,Pittsburgh,10,26,9,,1
+43764,ALA,ARK,10,26,9,,1
+43764,Oklahoma State,Iowa State,10,26,9,,1
+43764,AF,Utah State,10,26,9,,
+43764,Northern Illinois,Akron,10,26,9,,
+43764,APP ST,South Alabama,10,26,9,,
+43764,Stanford,ARIZ,10,26,9,,
+43764,UCLA,Arizona St.,10,26,9,,
+43764,ARK ST,Texas State,10,26,9,,
+43764,San Jose State,Army,10,26,9,,
+43764,Ohio,BALL,10,26,9,,
+43764,Western Michigan,BGSU,10,26,9,,
+43764,BUF,C. Mich.,10,26,9,,
+43764,Charlotte,North Texas,10,26,9,,
+43764,Colorado St.,Fresno State,10,26,9,,
+43764,Connecticut,UMASS,10,26,9,,
+43764,North Carolina,Duke,10,26,9,,
+43764,Toledo,E. Michigan,10,26,9,,
+43764,Florida Atlantic,Old Dominion,10,26,9,,
+43764,Georgia Southern,N. Mexico St.,10,26,9,,
+43764,Georgia St.,TROY,10,26,9,,
+43764,Hawaii,NM,10,26,9,,
+43764,Illinois,Purdue,10,26,9,,
+43764,Kentucky,Missouri,10,26,9,,
+43764,Louisiana Tech,UTEP,10,26,9,,
+43764,Louisville,Virginia,10,26,9,,
+43764,MARSHALL,Western Kentucky,10,26,9,,
+43764,Memphis,Tulsa,10,26,9,,
+43764,Texas A&M,Mississippi State,10,26,9,,
+43764,Navy,TULANE,10,26,9,,
+43764,Wyoming,Nevada,10,26,9,,
+43764,Southern Miss,Rice,10,26,9,,
+43764,San Diego State,UNLV,10,26,9,,
+43764,Tennessee,South Carolina,10,26,9,,
+43764,CLEM,BC,10,26,9,,
+43764,Miami (Ohio),Kent State,10,26,9,,
+43764,Rutgers,Liberty,10,26,9,,
+43764,Indiana,Nebraska,10,26,9,,
+43769,Georgia Southern,APP ST,10,31,10,,1
+43769,BAY,West Virginia,10,31,10,,1
+43770,Navy,Connecticut,11,1,10,,1
+43771,Georgia,FLA,11,2,10,1,
+43771,Memphis,SMU,11,2,10,1,
+43771,Purdue,Nebraska,11,2,10,1,
+43771,Notre Dame,Virginia Tech,11,2,10,1,
+43771,Oregon,USC,11,2,10,1,
+43771,Utah,Washington,11,2,10,1,
+43771,Miami,Florida State,11,2,10,1,
+43771,Michigan,Maryland,11,2,10,1,
+43771,AUB,Mississippi,11,2,10,,1
+43771,UCF,Houston,11,2,10,,1
+43771,Indiana,Northwestern,11,2,10,,1
+43771,Kansas State,KANSAS,11,2,10,,1
+43771,Wake Forest,N.C. State,11,2,10,,1
+43771,Oklahoma State,TCU,11,2,10,,1
+43771,Tennessee,UAB,11,2,10,,1
+43771,BYU,Utah State,11,2,10,,1
+43771,AF,Army,11,2,10,,
+43771,BGSU,Akron,11,2,10,,
+43771,Oregon State,ARIZ,11,2,10,,
+43771,ARK ST,UL-Monroe,11,2,10,,
+43771,Boise,San Jose State,11,2,10,,
+43771,BC,Syracuse,11,2,10,,
+43771,BUF,E. Michigan,11,2,10,,
+43771,Charlotte,Middle Tennessee,11,2,10,,
+43771,CIN,ECU,11,2,10,,
+43771,C. Mich.,Northern Illinois,11,2,10,,
+43771,C CAR,TROY,11,2,10,,
+43771,UCLA,Colorado,11,2,10,,
+43771,Colorado St.,UNLV,11,2,10,,
+43771,Florida Atlantic,Western Kentucky,11,2,10,,
+43771,FIU,Old Dominion,11,2,10,,
+43771,Fresno State,Hawaii,11,2,10,,
+43771,Illinois,Rutgers,11,2,10,,
+43771,UL-Lafayette,Texas State,11,2,10,,
+43771,MARSHALL,Rice,11,2,10,,
+43771,Nevada,NM,11,2,10,,
+43771,Virginia,North Carolina,11,2,10,,
+43771,North Texas,UTEP,11,2,10,,
+43771,South Carolina,Vanderbilt,11,2,10,,
+43771,Texas A&M,UTSA,11,2,10,,
+43771,TULANE,Tulsa,11,2,10,,
+43771,CLEM,Wofford,11,2,10,,
+43771,Pittsburgh,Georgia Tech,11,2,10,,
+43771,Liberty,UMASS,11,2,10,,
+43771,Mississippi State,ARK,11,2,10,,
+43774,Western Michigan,BALL,11,5,11,,1
+43774,Toledo,Kent State,11,5,11,,
+43775,Miami (Ohio),Ohio,11,6,11,,1
+43776,Temple,USF,11,7,11,,1
+43776,UL-Lafayette,C CAR,11,7,11,,
+43777,Washington,Oregon State,11,8,11,,1
+43777,Tulsa,UCF,11,8,11,,1
+43778,LSU,ALA,11,9,11,1,
+43778,USC,Arizona St.,11,9,11,1,
+43778,Wisconsin,Iowa,11,9,11,1,
+43778,Minnesota,Penn State,11,9,11,1,
+43778,CLEM,N.C. State,11,9,11,1,
+43778,Ohio State,Maryland,11,9,11,1,
+43778,Oklahoma,Iowa State,11,9,11,1,
+43778,APP ST,South Carolina,11,9,11,,1
+43778,BAY,TCU,11,9,11,,1
+43778,Boise,Wyoming,11,9,11,,1
+43778,SMU,ECU,11,9,11,,1
+43778,FLA,Vanderbilt,11,9,11,,1
+43778,Georgia,Missouri,11,9,11,,1
+43778,Illinois,Michigan State,11,9,11,,1
+43778,Texas,Kansas State,11,9,11,,1
+43778,Miami,Louisville,11,9,11,,1
+43778,Nevada,San Diego State,11,9,11,,1
+43778,Texas Tech,West Virginia,11,9,11,,1
+43778,BYU,Liberty,11,9,11,,1
+43778,Army,UMASS,11,9,11,,
+43778,Cal,Washington State,11,9,11,,
+43778,Charlotte,UTEP,11,9,11,,
+43778,CIN,Connecticut,11,9,11,,
+43778,Colorado,Stanford,11,9,11,,
+43778,Notre Dame,Duke,11,9,11,,
+43778,Florida Atlantic,FIU,11,9,11,,
+43778,Utah State,Fresno State,11,9,11,,
+43778,TROY,Georgia Southern,11,9,11,,
+43778,UL-Monroe,Georgia St.,11,9,11,,
+43778,Hawaii,San Jose State,11,9,11,,
+43778,Tennessee,Kentucky,11,9,11,,
+43778,Louisiana Tech,North Texas,11,9,11,,
+43778,Mississippi,N. Mexico St.,11,9,11,,
+43778,Purdue,Northwestern,11,9,11,,
+43778,UTSA,Old Dominion,11,9,11,,
+43778,Texas State,South Alabama,11,9,11,,
+43778,Southern Miss,UAB,11,9,11,,
+43778,Virginia Tech,Wake Forest,11,9,11,,
+43778,Florida State,BC,11,9,11,,
+43778,Virginia,Georgia Tech,11,9,11,,
+43778,Western Kentucky,ARK,11,9,11,,
+43781,Western Michigan,Ohio,11,12,12,,1
+43781,E. Michigan,Akron,11,12,12,,
+43782,Northern Illinois,Toledo,11,13,12,,1
+43782,Miami (Ohio),BGSU,11,13,12,,
+43783,Pittsburgh,North Carolina,11,14,12,,1
+43783,Kent State,BUF,11,14,12,,
+43784,San Diego State,Fresno State,11,15,12,,1
+43784,MARSHALL,Louisiana Tech,11,15,12,,
+43785,Georgia,AUB,11,16,12,1,
+43785,Oklahoma,BAY,11,16,12,1,
+43785,FLA,Missouri,11,16,12,1,
+43785,Penn State,Indiana,11,16,12,1,
+43785,Iowa,Minnesota,11,16,12,1,
+43785,Michigan,Michigan State,11,16,12,1,
+43785,Notre Dame,Navy,11,16,12,1,
+43785,Utah,UCLA,11,16,12,1,
+43785,CLEM,Wake Forest,11,16,12,1,
+43785,AF,Colorado St.,11,16,12,,1
+43785,ALA,Mississippi State,11,16,12,,1
+43785,Oregon,ARIZ,11,16,12,,1
+43785,Oregon State,Arizona St.,11,16,12,,1
+43785,Boise,NM,11,16,12,,1
+43785,USC,Cal,11,16,12,,1
+43785,Memphis,Houston,11,16,12,,1
+43785,Oklahoma State,KANSAS,11,16,12,,1
+43785,West Virginia,Kansas State,11,16,12,,1
+43785,LSU,Mississippi,11,16,12,,1
+43785,TCU,Texas Tech,11,16,12,,1
+43785,Iowa State,Texas,11,16,12,,1
+43785,APP ST,Georgia St.,11,16,12,,
+43785,ARK ST,C CAR,11,16,12,,
+43785,Army,VMI,11,16,12,,
+43785,C. Mich.,BALL,11,16,12,,
+43785,CIN,USF,11,16,12,,
+43785,Syracuse,Duke,11,16,12,,
+43785,Georgia Southern,UL-Monroe,11,16,12,,
+43785,Hawaii,UNLV,11,16,12,,
+43785,N. Mexico St.,Inc word,11,16,12,,
+43785,Kentucky,Vanderbilt,11,16,12,,
+43785,UL-Lafayette,South Alabama,11,16,12,,
+43785,Louisville,N.C. State,11,16,12,,
+43785,Northwestern,UMASS,11,16,12,,
+43785,Rice,Middle Tennessee,11,16,12,,
+43785,Wisconsin,Nebraska,11,16,12,,
+43785,Texas A&M,South Carolina,11,16,12,,
+43785,Southern Miss,UTSA,11,16,12,,
+43785,Washington State,Stanford,11,16,12,,
+43785,Temple,TULANE,11,16,12,,
+43785,TROY,Texas State,11,16,12,,
+43785,UAB,UTEP,11,16,12,,
+43785,Utah State,Wyoming,11,16,12,,
+43785,Florida State,Alabama State,11,16,12,,
+43785,Virginia Tech,Georgia Tech,11,16,12,,
+43785,Ohio State,Rutgers,11,16,12,,
+43785,BYU,Idaho St,11,16,12,,
+43788,E. Michigan,Northern Illinois,11,19,13,,1
+43788,Ohio,BGSU,11,19,13,,
+43789,BUF,Toledo,11,20,13,,1
+43789,Miami (Ohio),Akron,11,20,13,,
+43790,Georgia Tech,N.C. State,11,21,13,,1
+43791,Wyoming,Colorado St.,11,22,13,,1
+43792,Arizona St.,Oregon,11,23,13,1,
+43792,Notre Dame,BC,11,23,13,1,
+43792,Georgia,Texas A&M,11,23,13,1,
+43792,Minnesota,Northwestern,11,23,13,1,
+43792,Oklahoma,TCU,11,23,13,1,
+43792,Wisconsin,Purdue,11,23,13,1,
+43792,USC,UCLA,11,23,13,1,
+43792,Ohio State,Penn State,11,23,13,1,
+43792,Utah,ARIZ,11,23,13,,1
+43792,BAY,Texas,11,23,13,,1
+43792,CIN,Temple,11,23,13,,1
+43792,Colorado,Washington,11,23,13,,1
+43792,Nevada,Fresno State,11,23,13,,1
+43792,Michigan,Indiana,11,23,13,,1
+43792,Kansas State,Texas Tech,11,23,13,,1
+43792,Oklahoma State,West Virginia,11,23,13,,1
+43792,Virginia Tech,Pittsburgh,11,23,13,,1
+43792,LSU,ARK,11,23,13,,1
+43792,APP ST,Texas State,11,23,13,,
+43792,ARK ST,Georgia Southern,11,23,13,,
+43792,AUB,Samford,11,23,13,,
+43792,Kent State,BALL,11,23,13,,
+43792,Boise,Utah State,11,23,13,,
+43792,Cal,Stanford,11,23,13,,
+43792,Charlotte,MARSHALL,11,23,13,,
+43792,UL-Monroe,C CAR,11,23,13,,
+43792,ECU,Connecticut,11,23,13,,
+43792,Wake Forest,Duke,11,23,13,,
+43792,Vanderbilt,ETSU,11,23,13,,
+43792,Florida Atlantic,UTSA,11,23,13,,
+43792,FIU,Miami,11,23,13,,
+43792,Georgia St.,South Alabama,11,23,13,,
+43792,Hawaii,San Diego State,11,23,13,,
+43792,Houston,Tulsa,11,23,13,,
+43792,Iowa,Illinois,11,23,13,,
+43792,Kentucky,TMART,11,23,13,,
+43792,UL-Lafayette,TROY,11,23,13,,
+43792,UAB,Louisiana Tech,11,23,13,,
+43792,Louisville,Syracuse,11,23,13,,
+43792,Memphis,USF,11,23,13,,
+43792,North Carolina,Mercer,11,23,13,,
+43792,Michigan State,Rutgers,11,23,13,,
+43792,Tennessee,Missouri,11,23,13,,
+43792,Middle Tennessee,Old Dominion,11,23,13,,
+43792,Navy,SMU,11,23,13,,
+43792,N. Mexico St.,UTEP,11,23,13,,
+43792,Rice,North Texas,11,23,13,,
+43792,Washington State,Oregon State,11,23,13,,
+43792,UNLV,San Jose State,11,23,13,,
+43792,Western Kentucky,Southern Miss,11,23,13,,
+43792,UCF,TULANE,11,23,13,,
+43792,Nebraska,Maryland,11,23,13,,
+43792,BYU,UMASS,11,23,13,,
+43792,Virginia,Liberty,11,23,13,,
+43792,Iowa State,KANSAS,11,23,13,,
+43792,Mississippi State,Abilene Christian,11,23,13,,
+43792,AF,NM,11,23,13,,
+43795,Northern Illinois,Western Michigan,11,26,14,,1
+43795,Ohio,Akron,11,26,14,,
+43797,Mississippi State,Mississippi,11,28,14,,1
+43798,Memphis,CIN,11,29,14,1,
+43798,Texas,Texas Tech,11,29,14,1,
+43798,Virginia,Virginia Tech,11,29,14,1,
+43798,Washington,Washington State,11,29,14,1,
+43798,Missouri,ARK,11,29,14,1,
+43798,Iowa,Nebraska,11,29,14,,1
+43798,UCF,USF,11,29,14,,1
+43798,West Virginia,TCU,11,29,14,,1
+43798,APP ST,TROY,11,29,14,,
+43798,South Alabama,ARK ST,11,29,14,,
+43798,BALL,Miami (Ohio),11,29,14,,
+43798,Boise,Colorado St.,11,29,14,,
+43798,BUF,BGSU,11,29,14,,
+43798,C. Mich.,Toledo,11,29,14,,
+43798,Kent State,E. Michigan,11,29,14,,
+43799,AUB,ALA,11,30,14,1,
+43799,Utah,Colorado,11,30,14,1,
+43799,Wisconsin,Minnesota,11,30,14,1,
+43799,Notre Dame,Stanford,11,30,14,1,
+43799,Oklahoma,Oklahoma State,11,30,14,1,
+43799,Georgia,Georgia Tech,11,30,14,1,
+43799,Ohio State,Michigan,11,30,14,1,
+43799,Arizona St.,ARIZ,11,30,14,,1
+43799,BAY,KANSAS,11,30,14,,1
+43799,Cal,UCLA,11,30,14,,1
+43799,Duke,Miami,11,30,14,,1
+43799,San Jose State,Fresno State,11,30,14,,1
+43799,Navy,Houston,11,30,14,,1
+43799,Northwestern,Illinois,11,30,14,,1
+43799,Indiana,Purdue,11,30,14,,1
+43799,LSU,Texas A&M,11,30,14,,1
+43799,Michigan State,Maryland,11,30,14,,1
+43799,Penn State,Rutgers,11,30,14,,1
+43799,CLEM,South Carolina,11,30,14,,1
+43799,Kansas State,Iowa State,11,30,14,,1
+43799,AF,Wyoming,11,30,14,,
+43799,Hawaii,Army,11,30,14,,
+43799,BC,Pittsburgh,11,30,14,,
+43799,Charlotte,Old Dominion,11,30,14,,
+43799,C CAR,Texas State,11,30,14,,
+43799,Temple,Connecticut,11,30,14,,
+43799,Tulsa,ECU,11,30,14,,
+43799,Florida Atlantic,Southern Miss,11,30,14,,
+43799,MARSHALL,FIU,11,30,14,,
+43799,Georgia Southern,Georgia St.,11,30,14,,
+43799,Kentucky,Louisville,11,30,14,,
+43799,Louisiana Tech,UTSA,11,30,14,,
+43799,Western Kentucky,Middle Tennessee,11,30,14,,
+43799,UNLV,Nevada,11,30,14,,
+43799,Utah State,NM,11,30,14,,
+43799,UAB,North Texas,11,30,14,,
+43799,Oregon,Oregon State,11,30,14,,
+43799,Rice,UTEP,11,30,14,,
+43799,SMU,TULANE,11,30,14,,
+43799,Syracuse,Wake Forest,11,30,14,,
+43799,Tennessee,Vanderbilt,11,30,14,,
+43799,FLA,Florida State,11,30,14,,
+43799,Liberty,N. Mexico St.,11,30,14,,
+43799,North Carolina,N.C. State,11,30,14,,
+43799,UL-Lafayette,UL-Monroe,11,30,14,,
+43799,San Diego State,BYU,11,30,14,,

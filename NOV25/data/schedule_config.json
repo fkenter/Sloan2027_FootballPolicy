@@ -1,0 +1,1118 @@
+{
+ "version": 3,
+ "calendar": {
+  "early_days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "late_days": [
+   6,
+   7
+  ],
+  "last_week": 14,
+  "day_codes": "1=Sun 2=Mon 3=Tue 4=Wed 5=Thu 6=Fri 7=Sat"
+ },
+ "defaults": {
+  "matchup_mode": "free",
+  "max_games_per_team": 12,
+  "one_game_per_week": true,
+  "rest_rule": true,
+  "fill_all_seats": true,
+  "power_cap_slack": 1.0,
+  "low_power_window": 50,
+  "min_exposure": 0,
+  "team_group_caps": null,
+  "time_zone_caps": null,
+  "brand_mode": "team"
+ },
+ "solver": {
+  "grasp_starts": 1,
+  "rcl_noise": 0.03,
+  "improve_passes": 4,
+  "swap_moves": true,
+  "fill_margin": 6.0,
+  "use_mip": false,
+  "mip_backend": "auto",
+  "mip_time_limit": 30,
+  "mip_gap": 0.015,
+  "top_k": 120,
+  "exact_fixed": true
+ },
+ "simulation": {
+  "cap_reference": "rank_2019",
+  "power_cap_slack": 1.0,
+  "season_games": 12,
+  "sigma_game": 15.5,
+  "conference_games": {
+   "Southeastern": 9,
+   "Big_10": 9,
+   "Big_12": 9,
+   "Atlantic_Coast": 8,
+   "American_Athletic": 8,
+   "Sun_Belt": 8,
+   "Mid_American": 8,
+   "Mountain_West": 8,
+   "Conference_USA": 8,
+   "Pac_12": 1,
+   "FBS_Indep": 0
+  }
+ },
+ "alignments": {
+  "2019": {
+   "American_Athletic-east": [
+    "CIN",
+    "UCF",
+    "ECU",
+    "Temple",
+    "USF",
+    "Connecticut"
+   ],
+   "American_Athletic-west": [
+    "TULANE",
+    "Houston",
+    "SMU",
+    "Navy",
+    "Memphis",
+    "Tulsa"
+   ],
+   "Atlantic_Coast-atlantic": [
+    "CLEM",
+    "Florida State",
+    "Louisville",
+    "N.C. State",
+    "Syracuse",
+    "Wake Forest",
+    "BC"
+   ],
+   "Atlantic_Coast-coastal": [
+    "North Carolina",
+    "Duke",
+    "Pittsburgh",
+    "Georgia Tech",
+    "Miami",
+    "Virginia",
+    "Virginia Tech"
+   ],
+   "Big_10-east": [
+    "Indiana",
+    "Maryland",
+    "Michigan",
+    "Michigan State",
+    "Ohio State",
+    "Penn State",
+    "Rutgers"
+   ],
+   "Big_10-west": [
+    "Illinois",
+    "Iowa",
+    "Minnesota",
+    "Nebraska",
+    "Northwestern",
+    "Purdue",
+    "Wisconsin"
+   ],
+   "Big_12": [
+    "BAY",
+    "Iowa State",
+    "KANSAS",
+    "Kansas State",
+    "Oklahoma",
+    "Oklahoma State",
+    "TCU",
+    "Texas",
+    "Texas Tech",
+    "West Virginia"
+   ],
+   "Conference_USA-east": [
+    "Charlotte",
+    "Florida Atlantic",
+    "FIU",
+    "Middle Tennessee",
+    "Western Kentucky",
+    "MARSHALL",
+    "Old Dominion"
+   ],
+   "Conference_USA-west": [
+    "Louisiana Tech",
+    "North Texas",
+    "Rice",
+    "UAB",
+    "UTSA",
+    "UTEP",
+    "Southern Miss"
+   ],
+   "FBS_Indep": [
+    "Army",
+    "Liberty",
+    "UMASS",
+    "N. Mexico St."
+   ],
+   "Mid_American-east": [
+    "Akron",
+    "BGSU",
+    "BUF",
+    "Kent State",
+    "Miami (Ohio)",
+    "Ohio"
+   ],
+   "Mid_American-west": [
+    "BALL",
+    "C. Mich.",
+    "E. Michigan",
+    "Northern Illinois",
+    "Toledo",
+    "Western Michigan"
+   ],
+   "Mountain_West-mountain": [
+    "AF",
+    "Boise",
+    "Colorado St.",
+    "NM",
+    "Utah State",
+    "Wyoming"
+   ],
+   "Mountain_West-west": [
+    "Fresno State",
+    "Hawaii",
+    "Nevada",
+    "San Diego State",
+    "San Jose State",
+    "UNLV"
+   ],
+   "Pac_12-north": [
+    "Cal",
+    "Oregon",
+    "Oregon State",
+    "Stanford",
+    "Washington",
+    "Washington State"
+   ],
+   "Pac_12-south": [
+    "ARIZ",
+    "Arizona St.",
+    "Colorado",
+    "UCLA",
+    "USC",
+    "Utah"
+   ],
+   "Southeastern-east": [
+    "FLA",
+    "Georgia",
+    "Kentucky",
+    "Missouri",
+    "South Carolina",
+    "Tennessee",
+    "Vanderbilt"
+   ],
+   "Southeastern-west": [
+    "ALA",
+    "ARK",
+    "AUB",
+    "LSU",
+    "Mississippi",
+    "Mississippi State",
+    "Texas A&M"
+   ],
+   "Sun_Belt-east": [
+    "APP ST",
+    "TROY",
+    "C CAR",
+    "Georgia Southern",
+    "Georgia St."
+   ],
+   "Sun_Belt-west": [
+    "ARK ST",
+    "UL-Lafayette",
+    "South Alabama",
+    "Texas State",
+    "UL-Monroe"
+   ],
+   "BYU": [
+    "BYU"
+   ],
+   "NotreDame": [
+    "Notre Dame"
+   ]
+  },
+  "2025": {
+   "Southeastern": [
+    "ALA",
+    "ARK",
+    "AUB",
+    "FLA",
+    "Georgia",
+    "Kentucky",
+    "LSU",
+    "Mississippi",
+    "Mississippi State",
+    "Missouri",
+    "Oklahoma",
+    "South Carolina",
+    "Tennessee",
+    "Texas",
+    "Texas A&M",
+    "Vanderbilt"
+   ],
+   "Big_10": [
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Maryland",
+    "Michigan",
+    "Michigan State",
+    "Minnesota",
+    "Nebraska",
+    "Northwestern",
+    "Ohio State",
+    "Oregon",
+    "Penn State",
+    "Purdue",
+    "Rutgers",
+    "UCLA",
+    "USC",
+    "Washington",
+    "Wisconsin"
+   ],
+   "Big_12": [
+    "ARIZ",
+    "Arizona St.",
+    "BAY",
+    "BYU",
+    "CIN",
+    "Colorado",
+    "Houston",
+    "Iowa State",
+    "KANSAS",
+    "Kansas State",
+    "Oklahoma State",
+    "TCU",
+    "Texas Tech",
+    "UCF",
+    "Utah",
+    "West Virginia"
+   ],
+   "Atlantic_Coast": [
+    "BC",
+    "Cal",
+    "CLEM",
+    "Duke",
+    "Florida State",
+    "Georgia Tech",
+    "Louisville",
+    "Miami",
+    "N.C. State",
+    "North Carolina",
+    "Pittsburgh",
+    "SMU",
+    "Stanford",
+    "Syracuse",
+    "Virginia",
+    "Virginia Tech",
+    "Wake Forest"
+   ],
+   "Pac_12": [
+    "Oregon State",
+    "Washington State"
+   ],
+   "Mountain_West": [
+    "AF",
+    "Boise",
+    "Colorado St.",
+    "Fresno State",
+    "Hawaii",
+    "Nevada",
+    "NM",
+    "San Diego State",
+    "San Jose State",
+    "UNLV",
+    "Utah State",
+    "Wyoming"
+   ],
+   "American_Athletic": [
+    "Army",
+    "Charlotte",
+    "ECU",
+    "Florida Atlantic",
+    "Memphis",
+    "Navy",
+    "North Texas",
+    "Rice",
+    "Temple",
+    "TULANE",
+    "Tulsa",
+    "UAB",
+    "USF",
+    "UTSA"
+   ],
+   "Sun_Belt": [
+    "APP ST",
+    "ARK ST",
+    "C CAR",
+    "Georgia Southern",
+    "Georgia St.",
+    "J. Madison",
+    "MARSHALL",
+    "Old Dominion",
+    "South Alabama",
+    "Southern Miss",
+    "Texas State",
+    "TROY",
+    "UL-Lafayette",
+    "UL-Monroe"
+   ],
+   "Mid_American": [
+    "Akron",
+    "BALL",
+    "BGSU",
+    "BUF",
+    "C. Mich.",
+    "E. Michigan",
+    "Kent State",
+    "Miami (Ohio)",
+    "Northern Illinois",
+    "Ohio",
+    "Toledo",
+    "Western Michigan"
+   ],
+   "Conference_USA": [
+    "FIU",
+    "Jacksonville St.",
+    "Kennesaw St.",
+    "Liberty",
+    "Louisiana Tech",
+    "Middle Tennessee",
+    "N. Mexico St.",
+    "Sam Houston St.",
+    "UTEP",
+    "Western Kentucky"
+   ],
+   "FBS_Indep": [
+    "Connecticut",
+    "UMASS",
+    "Notre Dame"
+   ]
+  }
+ },
+ "groups": {
+  "2019": {
+   "American_Athletic-east": [
+    "CIN",
+    "UCF",
+    "ECU",
+    "Temple",
+    "USF",
+    "Connecticut"
+   ],
+   "American_Athletic-west": [
+    "TULANE",
+    "Houston",
+    "SMU",
+    "Navy",
+    "Memphis",
+    "Tulsa"
+   ],
+   "Atlantic_Coast-atlantic": [
+    "CLEM",
+    "Florida State",
+    "Louisville",
+    "N.C. State",
+    "Syracuse",
+    "Wake Forest",
+    "BC"
+   ],
+   "Atlantic_Coast-coastal": [
+    "North Carolina",
+    "Duke",
+    "Pittsburgh",
+    "Georgia Tech",
+    "Miami",
+    "Virginia",
+    "Virginia Tech"
+   ],
+   "Big_10-east": [
+    "Indiana",
+    "Maryland",
+    "Michigan",
+    "Michigan State",
+    "Ohio State",
+    "Penn State",
+    "Rutgers"
+   ],
+   "Big_10-west": [
+    "Illinois",
+    "Iowa",
+    "Minnesota",
+    "Nebraska",
+    "Northwestern",
+    "Purdue",
+    "Wisconsin"
+   ],
+   "Big_12": [
+    "BAY",
+    "Iowa State",
+    "KANSAS",
+    "Kansas State",
+    "Oklahoma",
+    "Oklahoma State",
+    "TCU",
+    "Texas",
+    "Texas Tech",
+    "West Virginia"
+   ],
+   "Conference_USA-east": [
+    "Charlotte",
+    "Florida Atlantic",
+    "FIU",
+    "Middle Tennessee",
+    "Western Kentucky",
+    "MARSHALL",
+    "Old Dominion"
+   ],
+   "Conference_USA-west": [
+    "Louisiana Tech",
+    "North Texas",
+    "Rice",
+    "UAB",
+    "UTSA",
+    "UTEP",
+    "Southern Miss"
+   ],
+   "FBS_Indep": [
+    "Army",
+    "Liberty",
+    "UMASS",
+    "N. Mexico St."
+   ],
+   "Mid_American-east": [
+    "Akron",
+    "BGSU",
+    "BUF",
+    "Kent State",
+    "Miami (Ohio)",
+    "Ohio"
+   ],
+   "Mid_American-west": [
+    "BALL",
+    "C. Mich.",
+    "E. Michigan",
+    "Northern Illinois",
+    "Toledo",
+    "Western Michigan"
+   ],
+   "Mountain_West-mountain": [
+    "AF",
+    "Boise",
+    "Colorado St.",
+    "NM",
+    "Utah State",
+    "Wyoming"
+   ],
+   "Mountain_West-west": [
+    "Fresno State",
+    "Hawaii",
+    "Nevada",
+    "San Diego State",
+    "San Jose State",
+    "UNLV"
+   ],
+   "Pac_12-north": [
+    "Cal",
+    "Oregon",
+    "Oregon State",
+    "Stanford",
+    "Washington",
+    "Washington State"
+   ],
+   "Pac_12-south": [
+    "ARIZ",
+    "Arizona St.",
+    "Colorado",
+    "UCLA",
+    "USC",
+    "Utah"
+   ],
+   "Southeastern-east": [
+    "FLA",
+    "Georgia",
+    "Kentucky",
+    "Missouri",
+    "South Carolina",
+    "Tennessee",
+    "Vanderbilt"
+   ],
+   "Southeastern-west": [
+    "ALA",
+    "ARK",
+    "AUB",
+    "LSU",
+    "Mississippi",
+    "Mississippi State",
+    "Texas A&M"
+   ],
+   "Sun_Belt-east": [
+    "APP ST",
+    "TROY",
+    "C CAR",
+    "Georgia Southern",
+    "Georgia St."
+   ],
+   "Sun_Belt-west": [
+    "ARK ST",
+    "UL-Lafayette",
+    "South Alabama",
+    "Texas State",
+    "UL-Monroe"
+   ],
+   "BYU": [
+    "BYU"
+   ],
+   "NotreDame": [
+    "Notre Dame"
+   ],
+   "American_Athletic": [
+    "CIN",
+    "Connecticut",
+    "ECU",
+    "Houston",
+    "Memphis",
+    "Navy",
+    "SMU",
+    "TULANE",
+    "Temple",
+    "Tulsa",
+    "UCF",
+    "USF"
+   ],
+   "Big_10": [
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Maryland",
+    "Michigan",
+    "Michigan State",
+    "Minnesota",
+    "Nebraska",
+    "Northwestern",
+    "Ohio State",
+    "Penn State",
+    "Purdue",
+    "Rutgers",
+    "Wisconsin"
+   ],
+   "Conference_USA": [
+    "Charlotte",
+    "FIU",
+    "Florida Atlantic",
+    "Louisiana Tech",
+    "MARSHALL",
+    "Middle Tennessee",
+    "North Texas",
+    "Old Dominion",
+    "Rice",
+    "Southern Miss",
+    "UAB",
+    "UTEP",
+    "UTSA",
+    "Western Kentucky"
+   ],
+   "Sun_Belt": [
+    "APP ST",
+    "ARK ST",
+    "C CAR",
+    "Georgia Southern",
+    "Georgia St.",
+    "South Alabama",
+    "TROY",
+    "Texas State",
+    "UL-Lafayette",
+    "UL-Monroe"
+   ],
+   "Atlantic_Coast": [
+    "BC",
+    "CLEM",
+    "Duke",
+    "Florida State",
+    "Georgia Tech",
+    "Louisville",
+    "Miami",
+    "N.C. State",
+    "North Carolina",
+    "Pittsburgh",
+    "Syracuse",
+    "Virginia",
+    "Virginia Tech",
+    "Wake Forest"
+   ],
+   "Pac_12": [
+    "ARIZ",
+    "Arizona St.",
+    "Cal",
+    "Colorado",
+    "Oregon",
+    "Oregon State",
+    "Stanford",
+    "UCLA",
+    "USC",
+    "Utah",
+    "Washington",
+    "Washington State"
+   ],
+   "Mid_American": [
+    "Akron",
+    "BALL",
+    "BGSU",
+    "BUF",
+    "C. Mich.",
+    "E. Michigan",
+    "Kent State",
+    "Miami (Ohio)",
+    "Northern Illinois",
+    "Ohio",
+    "Toledo",
+    "Western Michigan"
+   ],
+   "Mountain_West": [
+    "AF",
+    "Boise",
+    "Colorado St.",
+    "Fresno State",
+    "Hawaii",
+    "NM",
+    "Nevada",
+    "San Diego State",
+    "San Jose State",
+    "UNLV",
+    "Utah State",
+    "Wyoming"
+   ],
+   "Southeastern": [
+    "ALA",
+    "ARK",
+    "AUB",
+    "FLA",
+    "Georgia",
+    "Kentucky",
+    "LSU",
+    "Mississippi",
+    "Mississippi State",
+    "Missouri",
+    "South Carolina",
+    "Tennessee",
+    "Texas A&M",
+    "Vanderbilt"
+   ]
+  }
+ },
+ "team_group_cap_sets": {
+  "conference_2019": {
+   "groups": "2019",
+   "rules": [
+    {
+     "team_group": "American_Athletic-east",
+     "opp_group": "American_Athletic-east",
+     "max": 5
+    },
+    {
+     "team_group": "American_Athletic-west",
+     "opp_group": "American_Athletic-west",
+     "max": 5
+    },
+    {
+     "team_group": "American_Athletic-east",
+     "opp_group": "American_Athletic-west",
+     "max": 3
+    },
+    {
+     "team_group": "American_Athletic-west",
+     "opp_group": "American_Athletic-east",
+     "max": 3
+    },
+    {
+     "team_group": "Atlantic_Coast-atlantic",
+     "opp_group": "Atlantic_Coast-atlantic",
+     "max": 6
+    },
+    {
+     "team_group": "Atlantic_Coast-coastal",
+     "opp_group": "Atlantic_Coast-coastal",
+     "max": 6
+    },
+    {
+     "team_group": "Atlantic_Coast-atlantic",
+     "opp_group": "Atlantic_Coast-coastal",
+     "max": 2
+    },
+    {
+     "team_group": "Atlantic_Coast-coastal",
+     "opp_group": "Atlantic_Coast-atlantic",
+     "max": 2
+    },
+    {
+     "team_group": "Big_10-east",
+     "opp_group": "Big_10-east",
+     "max": 6
+    },
+    {
+     "team_group": "Big_10-west",
+     "opp_group": "Big_10-west",
+     "max": 6
+    },
+    {
+     "team_group": "Big_10-west",
+     "opp_group": "Big_10-east",
+     "max": 3
+    },
+    {
+     "team_group": "Big_10-east",
+     "opp_group": "Big_10-west",
+     "max": 3
+    },
+    {
+     "team_group": "Big_12",
+     "opp_group": "Big_12",
+     "max": 9
+    },
+    {
+     "team_group": "Conference_USA-east",
+     "opp_group": "Conference_USA-east",
+     "max": 6
+    },
+    {
+     "team_group": "Conference_USA-west",
+     "opp_group": "Conference_USA-west",
+     "max": 6
+    },
+    {
+     "team_group": "Conference_USA-west",
+     "opp_group": "Conference_USA-east",
+     "max": 2
+    },
+    {
+     "team_group": "Conference_USA-east",
+     "opp_group": "Conference_USA-west",
+     "max": 2
+    },
+    {
+     "team_group": "Mid_American-east",
+     "opp_group": "Mid_American-east",
+     "max": 5
+    },
+    {
+     "team_group": "Mid_American-west",
+     "opp_group": "Mid_American-west",
+     "max": 5
+    },
+    {
+     "team_group": "Mid_American-west",
+     "opp_group": "Mid_American-east",
+     "max": 3
+    },
+    {
+     "team_group": "Mid_American-east",
+     "opp_group": "Mid_American-west",
+     "max": 3
+    },
+    {
+     "team_group": "Mountain_West-mountain",
+     "opp_group": "Mountain_West-mountain",
+     "max": 5
+    },
+    {
+     "team_group": "Mountain_West-west",
+     "opp_group": "Mountain_West-west",
+     "max": 5
+    },
+    {
+     "team_group": "Mountain_West-mountain",
+     "opp_group": "Mountain_West-west",
+     "max": 3
+    },
+    {
+     "team_group": "Mountain_West-west",
+     "opp_group": "Mountain_West-mountain",
+     "max": 3
+    },
+    {
+     "team_group": "Pac_12-north",
+     "opp_group": "Pac_12-north",
+     "max": 5
+    },
+    {
+     "team_group": "Pac_12-south",
+     "opp_group": "Pac_12-south",
+     "max": 5
+    },
+    {
+     "team_group": "Pac_12-south",
+     "opp_group": "Pac_12-north",
+     "max": 4
+    },
+    {
+     "team_group": "Pac_12-north",
+     "opp_group": "Pac_12-south",
+     "max": 4
+    },
+    {
+     "team_group": "Southeastern-east",
+     "opp_group": "Southeastern-east",
+     "max": 6
+    },
+    {
+     "team_group": "Southeastern-west",
+     "opp_group": "Southeastern-west",
+     "max": 6
+    },
+    {
+     "team_group": "Southeastern-west",
+     "opp_group": "Southeastern-east",
+     "max": 2
+    },
+    {
+     "team_group": "Southeastern-east",
+     "opp_group": "Southeastern-west",
+     "max": 2
+    },
+    {
+     "team_group": "Sun_Belt-east",
+     "opp_group": "Sun_Belt-east",
+     "max": 4
+    },
+    {
+     "team_group": "Sun_Belt-west",
+     "opp_group": "Sun_Belt-west",
+     "max": 4
+    },
+    {
+     "team_group": "Sun_Belt-west",
+     "opp_group": "Sun_Belt-east",
+     "max": 4
+    },
+    {
+     "team_group": "Sun_Belt-east",
+     "opp_group": "Sun_Belt-west",
+     "max": 4
+    },
+    {
+     "team_group": "American_Athletic",
+     "opp_not_group": "American_Athletic",
+     "max": 4
+    },
+    {
+     "team_group": "Atlantic_Coast",
+     "opp_not_group": "Atlantic_Coast",
+     "max": 4
+    },
+    {
+     "team_group": "Big_10",
+     "opp_not_group": "Big_10",
+     "max": 3
+    },
+    {
+     "team_group": "Big_12",
+     "opp_not_group": "Big_12",
+     "max": 3
+    },
+    {
+     "team_group": "Conference_USA",
+     "opp_not_group": "Conference_USA",
+     "max": 4
+    },
+    {
+     "team_group": "FBS_Indep",
+     "opp_not_group": "FBS_Indep",
+     "max": 12
+    },
+    {
+     "team_group": "Mid_American",
+     "opp_not_group": "Mid_American",
+     "max": 4
+    },
+    {
+     "team_group": "Mountain_West",
+     "opp_not_group": "Mountain_West",
+     "max": 4
+    },
+    {
+     "team_group": "Pac_12",
+     "opp_not_group": "Pac_12",
+     "max": 3
+    },
+    {
+     "team_group": "Southeastern",
+     "opp_not_group": "Southeastern",
+     "max": 4
+    },
+    {
+     "team_group": "Sun_Belt",
+     "opp_not_group": "Sun_Belt",
+     "max": 4
+    },
+    {
+     "team_group": "BYU",
+     "opp_not_group": "BYU",
+     "max": 12
+    },
+    {
+     "team_group": "NotreDame",
+     "opp_not_group": "NotreDame",
+     "max": 12
+    }
+   ]
+  }
+ },
+ "time_zones": {
+  "West": [
+   "AF",
+   "ARIZ",
+   "Arizona St.",
+   "Boise",
+   "BYU",
+   "Cal",
+   "Colorado",
+   "Colorado St.",
+   "Fresno State",
+   "Hawaii",
+   "Idaho",
+   "N. Mexico St.",
+   "Nevada",
+   "NM",
+   "Oregon",
+   "Oregon State",
+   "San Diego State",
+   "San Jose State",
+   "Stanford",
+   "UCLA",
+   "UNLV",
+   "USC",
+   "Utah",
+   "Utah State",
+   "UTEP",
+   "Washington",
+   "Washington State",
+   "Wyoming"
+  ],
+  "Central": [
+   "ALA",
+   "ARK ST",
+   "AUB",
+   "BALL",
+   "BAY",
+   "CIN",
+   "Houston",
+   "Illinois",
+   "Iowa",
+   "Iowa State",
+   "KANSAS",
+   "Kansas State",
+   "LSU",
+   "Memphis",
+   "Michigan",
+   "Middle Tennessee",
+   "Minnesota",
+   "Mississippi",
+   "Mississippi State",
+   "Missouri",
+   "Nebraska",
+   "North Texas",
+   "Northern Illinois",
+   "Northwestern",
+   "Notre Dame",
+   "Oklahoma",
+   "Oklahoma State",
+   "Rice",
+   "SMU",
+   "South Alabama",
+   "Southern Miss",
+   "TCU",
+   "Texas",
+   "Texas A&M",
+   "Texas State",
+   "Texas Tech",
+   "TROY",
+   "TULANE",
+   "Tulsa",
+   "UAB",
+   "UL-Lafayette",
+   "UL-Monroe",
+   "UTSA",
+   "Vanderbilt",
+   "Western Kentucky",
+   "Wisconsin",
+   "Jacksonville St.",
+   "Sam Houston St."
+  ],
+  "_default": "East"
+ },
+ "time_zone_cap_sets": {
+  "mild_2019": [
+   {
+    "zone": "West",
+    "time": "morning",
+    "max": 2
+   },
+   {
+    "zone": "Central",
+    "time": "late",
+    "max": 6
+   },
+   {
+    "zone": "East",
+    "time": "late",
+    "max": 2
+   }
+  ]
+ },
+ "scenarios": {
+  "Actual 2019 slate (reconstructed)": {
+   "matchup_mode": "historical",
+   "rest_rule": false
+  },
+  "Model 0 (2019 games, reslot within week)": {
+   "matchup_mode": "fixed_week",
+   "rest_rule": false
+  },
+  "Model 0b (2019 slate, choose TV games within week)": {
+   "matchup_mode": "subset_week",
+   "rest_rule": false
+  },
+  "Model 1 (2019 games by week, sigma=1.05)": {
+   "matchup_mode": "fixed_week",
+   "power_cap_slack": 1.05,
+   "rest_rule": false
+  },
+  "Model 2 (2019 games, any week)": {
+   "matchup_mode": "fixed_season",
+   "rest_rule": false
+  },
+  "Model 3-sigma (conference caps)": {
+   "team_group_caps": "conference_2019"
+  },
+  "Model 3-zeta-sigma": {
+   "team_group_caps": "conference_2019",
+   "time_zone_caps": "mild_2019"
+  },
+  "Model 3-eps-sigma": {
+   "team_group_caps": "conference_2019",
+   "min_exposure": 1
+  },
+  "Model 3-zeta-eps-sigma": {
+   "team_group_caps": "conference_2019",
+   "time_zone_caps": "mild_2019",
+   "min_exposure": 1
+  },
+  "Model 4-sigma (no conference structure)": {},
+  "Model 4-sigma-zeta": {
+   "time_zone_caps": "mild_2019"
+  },
+  "Model 4-sigma-eps": {
+   "min_exposure": 1
+  },
+  "Model 4-sigma-zeta-eps": {
+   "time_zone_caps": "mild_2019",
+   "min_exposure": 1
+  }
+ }
+}
